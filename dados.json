@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "photo": 1,
+    "name": "Praia de Pajuçara",
+    "description": "Praia com Ótimas Opções de Lazer",
+    "bio": "Maceió - AL",
+    "location": {
+      "geo": {
+        "lat": "-9.669009299999999",
+        "lng": "-35.71298030000003"
+      }
+    },
+    "social": {
+      "twitter": "<img src=''/img/logo.png'>",
+      "facebook": "http://.com",
+      "linkedin": "https://linkedin.com"
+    }
+  },
+
+  {
+    "id": 2,
+    "photo": 1,
+    "name": "Praia do Frânces",
+    "description": "Ótima para Surfar.",
+    "bio": "Marechal Deodoro - AL",
+    "location": {
+      "geo": {
+        "lat": "-9.7708484",
+        "lng": "-35.840304"
+      }
+    },
+    "social": {
+      "twitter": "http://twitter.com",
+      "facebook": "http://facebook.com",
+      "linkedin": "https://linkedin.com"
+    }
+  },
+
+  {
+    "id": 3,
+    "photo": 1,
+    "name": "Praia de Guaxuma",
+    "description": "Praia mais afastada do centro da cidade. Possui...",
+    "bio": "Maceió - AL",
+    "location": {
+      "geo": {
+        "lat": "-9.593147799999999",
+        "lng": "-35.67018569999999"
+      }
+    },
+    "social": {
+      "twitter": "http://twitter.com",
+      "facebook": "http://facebook.com",
+      "linkedin": "https://linkedin.com"
+    }
+  },
+
+  {
+    "id": 4,
+    "photo": 1,
+    "name": "Praia da Sereira",
+    "description": "50%",
+    "bio": "Maceió - AL",
+    "location": {
+      "geo": {
+        "lat": "-9.5672484",
+        "lng": "-35.64694880000002"
+      }
+    },
+    "social": {
+      "twitter": "http://twitter.com",
+      "facebook": "http://facebook.com",
+      "linkedin": "https://linkedin.com"
+    }
+  },
+
+  {
+    "id": 5,
+    "photo": 1,
+    "name": "Praia do Gunga",
+    "description": "Praia bonita, mas totalmente poluída.",
+    "bio": "Maceió - AL",
+    "location": {
+      "geo": {
+        "lat": "-9.8597935",
+        "lng": "-35.9043585"
+      }
+    },
+    "social": {
+      "twitter": "http://twitter.com",
+      "facebook": "http://facebook.com",
+      "linkedin": "https://linkedin.com"
+    }
+  },
+
+  {
+    "id": 12,
+    "photo": 1,
+    "name": "Praia de Ponta Verde",
+    "description": "Uma das mais visitadas.",
+    "bio": "Maceió - AL",
+    "location": {
+      "geo": {
+        "lat": "-9.6642911",
+        "lng": "-35.69544029999997"
+      }
+    },
+    "social": {
+      "twitter": "http://twitter.com",
+      "facebook": "http://facebook.com",
+      "linkedin": "https://linkedin.com"
+    }
+  }
+]
